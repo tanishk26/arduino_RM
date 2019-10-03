@@ -1,6 +1,6 @@
 ### Index
 ***
-1.  [Basics]()
+1.  [Basics](https://github.com/tanishk26/phenom26/blob/master/ThirdOctTask.md/20)
     * Arduino
         * Digital Pins
         * Analog Pins
@@ -17,7 +17,7 @@
     * I2C
     * UART
 ***
-### [Basics]()
+### Basics
 
 ***
 ### Motor Drivers
