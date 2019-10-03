@@ -12,7 +12,7 @@
     * IR Sensors
     * LDR
 
-3.  [Communication Protocols](Communication Protocols)
+3.  [Communication Protocols](Communication-Protocols)
     * SPI
     * I2C
     * UART
