@@ -1,6 +1,6 @@
 ### Index
 ***
-1.  [Basics](#dest)
+1.  [Basics](#Basics)
     * Arduino
         * Digital Pins
         * Analog Pins
