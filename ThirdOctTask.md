@@ -17,8 +17,6 @@
       
     * LDR
     
-    ![alt text](https://5.imimg.com/data5/PH/XF/MY-45321773/ir-sensor-module-for-arduino-2f-rasberry-pi-500x500.jpg)
-    
 3.  [Communication Protocols](#Communication-Protocols)
     * SPI
     * I2C
