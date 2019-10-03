@@ -1,6 +1,6 @@
 ### Index
 ***
-1.  [Basics](https://github.com/tanishk26/phenom26/blob/master/ThirdOctTask.md/20)
+1.  [Basics](https://github.com/tanishk26/phenom26/blob/master/ThirdOctTask.md)
     * Arduino
         * Digital Pins
         * Analog Pins
