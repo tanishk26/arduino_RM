@@ -11,7 +11,6 @@
     * Ultrasonic Sensors
       ![alt text](https://www.piborg.org/image/cache/catalog/freeburn/BURN-0019/DSC_0245-747x569.jpg)
       
-      
     * IR Sensors
       ![alt text](https://5.imimg.com/data5/PH/XF/MY-45321773/ir-sensor-module-for-arduino-2f-rasberry-pi-500x500.jpg)
     * LDR
@@ -27,4 +26,4 @@
 ### Sensors
 
 ***
-### Communication Protocols
+### Communication Protocol
