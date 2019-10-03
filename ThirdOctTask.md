@@ -9,7 +9,8 @@
 
 2. [Sensors](#Sensors)
     * Ultrasonic Sensors
-    * [IR Sensors](https://5.imimg.com/data5/PH/XF/MY-45321773/ir-sensor-module-for-arduino-2f-rasberry-pi-500x500.jpg)
+    * [IR Sensors]
+      (https://5.imimg.com/data5/PH/XF/MY-45321773/ir-sensor-module-for-arduino-2f-rasberry-pi-500x500.jpg)
     * LDR
 
 3.  [Communication Protocols](#Communication-Protocols)
