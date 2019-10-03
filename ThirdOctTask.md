@@ -7,20 +7,20 @@
     * Breadboard
         * Connection Pattern
 
-2. [Sensors]()
+2. [Sensors](#Sensors)
     * Ultrasonic Sensors
     * IR Sensors
     * LDR
 
-3.  [Communication Protocols]()
+3.  [Communication Protocols](Communication Protocols)
     * SPI
     * I2C
     * UART
 ***
-### Basics  <a href = "dest"> </a>
+### Basics 
 
 ***
-### Motor Drivers
+### Sensors
 
 ***
 ### Communication Protocols
