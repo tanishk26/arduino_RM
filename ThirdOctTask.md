@@ -21,19 +21,28 @@
     * SPI
     * I2C
     * UART
-4. [ROS]
+   
+4.  ROS
    * World and Local Coordinates
    * Communication Related Terms
    * Stimulators
-5. [Arduino to arduino communication code]
-6. [L293d motor]
-7. [EXPLORING GITHUB LIBRARIES]
+
+5.  Arduino to arduino communication code
+
+6.  L293d motor
+
+7. EXPLORING GITHUB LIBRARIES
    * BotBase
    * FourSBase
-8. [CREATING README FILES ON GITHUB]
-9. [TOWER OF HANOI]
-10.   [PID CONTROLLER]
-11.   [mdd10a]
+
+8. CREATING README FILES ON GITHUB
+
+9. TOWER OF HANOI
+
+10.   PID CONTROLLER
+
+11.   mdd10a
+
 
 ***
 ### Basics 
