@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int gen(int n)
+int gen(int n)		//RECURSION
 {
 	int dig,sum=0;
 	while(n!=0)
